@@ -1,0 +1,6 @@
+Imported Component from React to create class. Class App extends Component{}
+Did render() {
+    return (
+
+    )
+}
